@@ -13,4 +13,4 @@ children:
 ---
 
 
-nav truns to false now.
+nav and dropdown were truned to false now.
