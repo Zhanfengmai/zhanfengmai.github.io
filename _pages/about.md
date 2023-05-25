@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A Postdoc Works on GW Physics at <a href='#'>KIAA-PKU</a>. email:zwlyu@pku.edu.cn 
+subtitle: A Postdoc Works on Gravitational Wave Astrophysics at <a href='#'>KIAA-PKU</a>. email:zwlyu@pku.edu.cn 
 
 profile:
   align: right
