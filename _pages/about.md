@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>KIAA at Peking University </a>. email:zwlyu@pku.edu.cn
+subtitle: <a href='https://kiaa.pku.edu.cn/info/1014/8615.htm'>A Postdoc Works on GW Physics at KIAA-PKU. </a>. email:zwlyu@pku.edu.cn
 
 profile:
   align: right
@@ -19,7 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A Postdoc works on GW Physics at KIAA-PKU.
 
 
 My current research focuses on gravitational waves astrophysics. The objective is to unravel physics buried within the data, include but not limited to: finite size effects of neutron stars (tidal effect, spin induced quadrupole moment, QNMs, etc.), any other potential effects within Einstein general relativity and beyond theories, merger rates and formation channels of compact objects (stellar mass and Extreme Mass Ratio Inspirals (EMRIs)), implementations of gravitational waves in measuring Hubble parameter, dark mattera and dark energy in the consmology. 
