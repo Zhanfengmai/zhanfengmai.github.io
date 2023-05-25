@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://kiaa.pku.edu.cn/info/1014/8615.htm'>A Postdoc Works on GW Physics at KIAA-PKU. email:  zwlyu@pku.edu.cn </a>
+subtitle: A Postdoc Works on GW Physics at <a href='https://kiaa.pku.edu.cn/info/1014/8615.htm'>KIAA-PKU.</a> email:zwlyu@pku.edu.cn 
 
 profile:
   align: right
