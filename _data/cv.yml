@@ -20,7 +20,7 @@
   contents:
     - title: Boya Fellow
       institution: Kavli Institute for Astronomy and Astrophysics, Peking University, China
-      year: 2022 -- 2024
+      year: 2022 - 2024
       
       
 - title: Education
@@ -28,7 +28,7 @@
   contents:
     - title: Ph.D.
       institution: Department of Physics, University of Guelph, Guelph, Canada
-      year: 2018 -- 2022
+      year: 2018 - 2022
 #       description:
 #         - Description 1.
 #         - Description 2.
@@ -38,13 +38,13 @@
 #             - Sub-description 2.
     - title: M.Sc 
       institution: Department of Astronomy, Beijing Normal University, Beijing, China
-      year: 2015 -- 2018
+      year: 2015 - 2018
 #       description:
 #         - Description 1.
 #         - Description 2.
     - title: B.Sc
       institution: Department of Physics, Harbin Institute of Technology, Harbin, China
-      year: 2011 -- 2015
+      year: 2011 - 2015
 
 
 #       description:
