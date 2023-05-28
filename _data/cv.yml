@@ -2,12 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zhenwei Lyu
 
+- title: Academic Interests
+  type: list
+  contents:
+    - My current research focuses on gravitational waves astrophysics. The objective is to unravel physics buried within the data, include but not limited to: finite size effects of neutron stars (tidal effect, spin induced quadrupole moment, QNMs, etc.), any other potential effects within Einstein general relativity and beyond theories, merger rates and formation channels of compact objects (stellar mass and Extreme Mass Ratio Inspirals (EMRIs)), implementations of gravitational waves in measuring Hubble parameter, dark mattera and dark energy in the consmology. 
+    
 - title: Education
   type: time_table
   contents:
@@ -79,19 +80,19 @@
       items: 
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
