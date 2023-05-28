@@ -1,8 +1,8 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Zhenwei Lyu
+- title: Zhenwei Lyu
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Zhenwei Lyu
 
 - title: Academic Interests
   text: >
