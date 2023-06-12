@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Academic interests:** My current research focuses on gravitational waves astrophysics. The objective is to unravel physics buried within the data, include but not limited to: finite size effects of neutron stars (tidal effect, spin induced quadrupole moment, Quasi Normal Modes (QNMs), etc.), any other potential effects within Einstein general relativity and beyond theories, formation channels and merger rates of compact objects (stellar mass and Extreme Mass Ratio Inspirals (EMRIs)), implementations of gravitational waves in measuring Hubble parameter, dark matter and dark energy in the consmology.
+#### Academic interests: 
+My current research focuses on gravitational waves astrophysics. The objective is to unravel physics buried within the data, include but not limited to: finite size effects of neutron stars (tidal effect, spin induced quadrupole moment, Quasi Normal Modes (QNMs), etc.), any other potential effects within Einstein general relativity and beyond theories, formation channels and merger rates of compact objects (stellar mass and Extreme Mass Ratio Inspirals (EMRIs)), implementations of gravitational waves in measuring Hubble parameter, dark matter and dark energy in the consmology.
 
+
+<br/><br/>
+<br/><br/>
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
