@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc at <a href="https://kiaa.pku.edu.cn/info/1014/8612.htm">Kavli Institute for Astronamy and Astrophysics, Peking University(KIAA-PKU)</a>. Email:zhanfeng.mai@gmail.com
+subtitle: Postdoc at Kavli Institute for Astronamy and Astrophysics, Peking University <a href="https://kiaa.pku.edu.cn/info/1014/8612.htm">(KIAA-PKU)</a>. Email:zhanfeng.mai@gmail.com
 
 profile:
   align: right
-<!--   image: prof_pic.jpg -->
+  image: prof_pic.jpg 
 <!--   image_circular: false # crops the image to make it circular -->
 <!--   address: >
     <p>555 your office number</p>
