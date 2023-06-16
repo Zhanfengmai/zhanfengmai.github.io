@@ -7,7 +7,7 @@ subtitle: Postdoc at Kavli Institute for Astronamy and Astrophysics, Peking Univ
 profile:
   align: right
   image: zf_bing.JPG 
-<!--   image_circular: false # crops the image to make it circular -->
+  image_circular: false # crops the image to make it circular 
 <!--   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -19,9 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-#### Academic interests: 
-My current research focuses on gravitational waves astrophysics. The objective is to unravel physics buried within the data, include but not limited to: finite size effects of neutron stars (tidal effect, spin induced quadrupole moment, Quasi Normal Modes (QNMs), etc.), any other potential effects within Einstein general relativity and beyond theories, formation channels and merger rates of compact objects (stellar mass and Extreme Mass Ratio Inspirals (EMRIs)), implementations of gravitational waves in measuring Hubble parameter, dark matter and dark energy in the consmology.
+#### Brief Self-Introduction 
+My name is Zhan-Feng Mai. I graduated from South China Normal University (SCNU) and got the bachelor's degree in Science in 2015. I got my Master's degree in Scinece in Beijing Normal University and then got my Doctor's degreee in Tianjin University. My supervisor is Hong L\"{u}. Currently I am the KIAA postdoc in Kavli Institute for Astronamy and Astrophysics, Peking University (KIAA-PKU). 
 
+#### Academic Interest:
+My current academic insterests are physics of black holes and neutrons stars in modified gravity. Especially, I am know focus on the Quasi-Normal modes (QNMs) and superradiant instability and their applications to the black holes stabiltiy analysis and gravitatinal waves.  
 
 <br/><br/>
 <br/><br/>
