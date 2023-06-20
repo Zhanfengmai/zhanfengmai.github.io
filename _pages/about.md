@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc at Kavli Institute for Astronamy and Astrophysics, Peking University <a href="https://kiaa.pku.edu.cn/info/1014/8612.htm">(KIAA-PKU)</a>. Email:zhanfeng.mai@gmail.com
+subtitle: Postdoc at Kavli Institute for Astronomy and Astrophysics, Peking University <a href="https://kiaa.pku.edu.cn/info/1014/8612.htm">(KIAA-PKU)</a>. Email:zhanfeng.mai@gmail.com
 
 profile:
   align: right
@@ -20,10 +20,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 #### Brief Self-Introduction 
-My name is Zhan-Feng Mai. I graduated from South China Normal University (SCNU) and got the bachelor's degree in Science in 2015. I got my Master's degree in Scinece in Beijing Normal University and then got my Doctor's degreee in Tianjin University. My supervisor is Hong L\"{u}. Currently I am the KIAA postdoc in Kavli Institute for Astronamy and Astrophysics, Peking University (KIAA-PKU). 
+My name is Zhan-Feng Mai. I graduated from South China Normal University (SCNU) and got a bachelor's degree in Science in 2015. I got my Master's degree in science from Beijing Normal University and then got my Doctor's degree from Tianjin University. My supervisor is Hong L\"{u}. Currently, I am the KIAA postdoc at Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU). 
 
 #### Academic Interest:
-My current academic insterests are physics of black holes and neutrons stars in modified gravity. Especially, I am know focus on the Quasi-Normal modes (QNMs) and superradiant instability and their applications to the black holes stabiltiy analysis and gravitatinal waves.  
+My current academic interests are the physics of black holes and neutron stars in modified gravity. Especially, I now focus on the Quasi-Normal modes (QNMs) and superradiant instability and their applications to the black hole stability analysis and gravitational waves.  
 
 <br/><br/>
 <br/><br/>
