@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 #### Brief Self-Introduction 
-My name is Zhan-Feng Mai. I graduated from South China Normal University (SCNU) and got a bachelor's degree in Science in 2015. I got my Master's degree in science from Beijing Normal University and then got my Doctor's degree from Tianjin University. My supervisor is Hong L\"{u}. Currently, I am the KIAA postdoc at Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU). 
+My name is Zhan-Feng Mai（麦展风）. I graduated from South China Normal University (SCNU) and got a bachelor's degree in Science in 2015. I got my Master's degree in science from Beijing Normal University and then got my Doctor's degree from Tianjin University. My supervisor is Hong L\"{u}. Currently, I am the KIAA postdoc at Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU). 
 
 #### Academic Interest:
 My current academic interests are the physics of black holes and neutron stars in modified gravity. Especially, I now focus on the Quasi-Normal modes (QNMs) and superradiant instability and their applications to the black hole stability analysis and gravitational waves.  
