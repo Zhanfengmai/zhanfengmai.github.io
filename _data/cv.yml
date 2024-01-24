@@ -1,13 +1,13 @@
-# - title: Zhenwei Lyu
+# - title: Zhan-Feng Mai
 #   type: map
 #   contents:
 #     - name: Full Name
-#       value: Zhenwei Lyu
+#       value: Zhan-Feng Mai
 
 - title: Experience
   type: time_table
   contents:
-    - title: Boya Fellow
+    - title: KIAA postdoc
       institution: Kavli Institute for Astronomy and Astrophysics, Peking University, China
       year: 2022 - 2024
       
@@ -16,8 +16,8 @@
   type: time_table
   contents:
     - title: Ph.D.
-      institution: Department of Physics, University of Guelph, Guelph, Canada
-      year: 2018 - 2022
+      institution: Center for Quantum Joint Studies, School of Science, Tianjin University, Tianjin, China
+      year: 2019 - 2022
 #       description:
 #         - Description 1.
 #         - Description 2.
@@ -26,13 +26,13 @@
 #             - Sub-description 1.
 #             - Sub-description 2.
     - title: M.Sc 
-      institution: Department of Astronomy, Beijing Normal University, Beijing, China
+      institution: Department of Physics, Beijing Normal University, Beijing, China
       year: 2015 - 2018
 #       description:
 #         - Description 1.
 #         - Description 2.
     - title: B.Sc
-      institution: Department of Physics, Harbin Institute of Technology, Harbin, China
+      institution: School of Physics, South China Normal University, Guangzhou, China
       year: 2011 - 2015
 
 
